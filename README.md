@@ -10,7 +10,7 @@ Tính năng
 - Nhập từ từ file.
 - Xuất từ ra file.
 
-**Cài đặt**
+**Cài đặt**  
 Để chạy ứng dụng, bạn cần có JDK 17 hoặc cao hơn và JavaFX SDK.
 
 **Cấu trúc dự án**
