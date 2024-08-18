@@ -10,10 +10,10 @@ Tính năng
 - Nhập từ từ file.
 - Xuất từ ra file.
 
-Cài đặt
+**Cài đặt**
 Để chạy ứng dụng, bạn cần có JDK 17 hoặc cao hơn và JavaFX SDK.
 
-Cấu trúc dự án
+**Cấu trúc dự án**
 
 Dưới đây là cấu trúc của dự án và mô tả chi tiết về các thành phần chính:
 
@@ -65,7 +65,7 @@ Dưới đây là cấu trúc của dự án và mô tả chi tiết về các t
 3. **Xuất Dữ Liệu**
    - Nhấp vào nút "Export to File" để lưu dữ liệu hiện tại trong bảng vào file.
 
-Hướng dẫn sử dụng
+**Hướng dẫn sử dụng**
 1. Mở ứng dụng.
 2. Xem danh sách từ ở cột bên trái.
 3. Chọn một từ để xem định nghĩa của nó trong cột bên phải.
